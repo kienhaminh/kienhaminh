@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning: **📚 AWS Solution Architecture Professional**
 - 💬 Ask me about: **💡 JavaScript, React, NextJS, NodeJS, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎤 I once debugged a issue while in a karaoke bar!**
-- 📂 Portfolio: **<a href="https://urlis.net/t2ervwn7" target="_blank">https://urlis.net/t2ervwn7</a>**
+- 📂 Portfolio: **<a href="https://kaneha.notion.site/KIEN-HA-MINH-10949a6b2e9f4f0f8b9b28536960939a" target="_blank">Read here</a>**
 
  **<h3 align="left">Skills</h3>**
 
